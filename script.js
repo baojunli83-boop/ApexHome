@@ -23,6 +23,11 @@ const galleries={
     ["assets/17023-04.jpg","Victoria Garden Townhomes · Architectural Rendering","Victoria Garden 联排住宅 · 建筑效果图"],
     ["assets/17023-05.jpg","Victoria Garden Townhomes · Architectural Rendering","Victoria Garden 联排住宅 · 建筑效果图"],
     ["assets/17023-06.jpg","Victoria Garden Townhomes · Architectural Rendering","Victoria Garden 联排住宅 · 建筑效果图"]
+  ],
+  "11815":[
+    ["assets/11815-01.png","Newcastle Residences · Architectural Rendering","Newcastle 独栋别墅 · 建筑效果图"],
+    ["assets/11815-02.png","Newcastle Residences · Architectural Rendering","Newcastle 独栋别墅 · 建筑效果图"],
+    ["assets/11815-03.png","Newcastle Residences · Architectural Rendering","Newcastle 独栋别墅 · 建筑效果图"]
   ]
 };
 const lb=document.getElementById("lightbox"), img=document.getElementById("lb-img"), cap=document.getElementById("lb-caption"), count=document.getElementById("lb-count");
